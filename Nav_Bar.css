@@ -1,0 +1,26 @@
+.bar {
+    background-color: #0f1111;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.text1 {
+    color: orangered;
+    /* width: 110px; */
+    font-size: 20px;
+    flex:1;
+
+    /* margin-right: 200px; */
+    /* float: left;  This is used to place div side by side*/
+}
+.anchor {
+    color: white;
+    flex:1;
+
+    /* margin-right: 200px; */
+}
+.button {
+    max-width: 100px;
+    background-color: orange;
+    flex:1;
+}
